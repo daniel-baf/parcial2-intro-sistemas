@@ -1,0 +1,26 @@
+# RESPUESTAS A LAS PREGUNTAS EN EL PDF
+
+¿Qué es GIT?
+    Es una herramienta de control de versiones que sirve para llevar un control de lo cambios que se 
+    van registrando dentro de un proyecto.
+
+¿Qué es un pull request?
+    Es lo mismo que un merge, es la union de dos ramas, pero la diferencia es que queremos unir
+    el contendio de una rama <RAMA1> a la rama master/maetra <ROOT>/<MAIN>/</MASTER>
+
+¿Qué es un commit?
+    Es la creacion de un nuevo nodo en la ramificación, la usamos para agregar elementos al stage y
+    le agregamos un comentario para saber qué funciones tienen los nuevos archivos o las modificaciones
+    en los archivos actuales.
+
+¿GIT y GitHub es lo mismo? Explique
+    No, GIT, es la herramienta gestora de versiones, GitHub es la pagina que que implementa GIT y almacena
+    un repositorio de forma remota.
+
+¿Qué es SCRUM?
+    Es un modelo de desarrollo de software que nos permite hacer cambios mientras se desarrolla el software
+    es un modelo de desarrollo circular flexible a cambios.
+
+¿Para qué sirve una metodología ágil de desarrollo?
+    Porque nos ayuda a estructurar el funcionamiento de una paliacio agilizando la velocidad en que se entregan
+    cambios en una aplicación.
